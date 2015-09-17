@@ -1,7 +1,6 @@
 # Record
-Just some note
 
-Some useful plugin for Sublime
+##Some useful plugin for Sublime
 1. package control
 2. AstyleFormatter
 3. filter
