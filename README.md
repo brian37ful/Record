@@ -6,3 +6,4 @@
 3. filter
 4. wordhighlight
 5. trailing space
+6. GitGutter
